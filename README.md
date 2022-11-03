@@ -19,4 +19,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/techissuccsess
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/aaron-rucker-479069231
