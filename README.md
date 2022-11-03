@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aaronrucker990/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aaronrucker990/azure-network-protocols)
   - [Generating a SIEM Environment within an Azure VM](https://github.com/aaronrucker990/azure-network-protocols)
-
+- <b>Powershell</b>
 <h2>🤳🏾Connect with me:</h2>
 
 [<img align="left" alt="Josh | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
