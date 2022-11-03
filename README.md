@@ -13,7 +13,7 @@
 - <b>Powershell</b>
     - [Creating a FIM (File Integrity Monitor)](https://github.com/aaronrucker990/FIM-File-Integrity-Monitor)
 - <b>VPN</b>
-    - [Understandind The Concept of a VPN](https://github.com/aaronrucker990/FIM-File-Integrity-Monitor)
+    - [Understandind The Concept Of a VPN](https://github.com/aaronrucker990/FIM-File-Integrity-Monitor)
 
 <h2>🤳🏾Connect with me:</h2>
 
