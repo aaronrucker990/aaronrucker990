@@ -11,7 +11,13 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>PowerShell</b>
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  
+- <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
 
+<h2>Environments Used (PaaS Components)</h2>
+<h2>Utilities Used</h2>
+
+- <b>ipgeolocation.io:</b> IP Address to Geolocation API
 
 <h2>🤳Connect with me:</h2>
 
