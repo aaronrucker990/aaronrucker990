@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aaron, an <a href="https://linkedin.com/in/aaron-rucker-479069231">IT Professional</a>☺</h1>
+<h1>Hi, I'm Aaron, an <a href="https://linkedin.com/in/aaronrucker990">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -19,4 +19,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/techissuccsess
-[linkedin]: https://linkedin.com/in/aaron-rucker-479069231
+[linkedin]: https://linkedin.com/in/aaronrucker990
