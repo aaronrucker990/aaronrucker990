@@ -14,7 +14,7 @@
 - <b>Powershell</b>
     - [Creating a FIM (File Integrity Monitor)](https://github.com/aaronrucker990/FIM-File-Integrity-Monitor)
 - <b>VPN</b>
-    - [Configuring and Observing a VPN within a Virtual Envoirment](https://github.com/aaronrucker990/vpn-install-config)
+    - [Configuring and Observing a VPN within a Virtual Envoirment](https://github.com/aaronrucker990/vpn-config-and-observ)
 
 <h2>🤳🏾Connect with me:</h2>
 
