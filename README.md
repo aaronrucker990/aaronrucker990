@@ -13,6 +13,8 @@
 - <b>VPN</b>
     - [Configuring and Observing a VPN within a Virtual Envoirment](https://github.com/aaronrucker990/vpn-config-and-observ)
 
+<h2> Live Projects On Youtube:</h2>
+
 <h2>🤳🏾Connect with me:</h2>
 
 [<img align="left" alt="Josh | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
