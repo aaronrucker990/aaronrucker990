@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/aaronrucker990/osTicket-Prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/aaronrucker990/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/aaronrucker990/osTicket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/aaronrucker990/ticket-lifecycle-examples)
 - <b>Microsoft Azure</b>
   - [Generating a Virtual Envoirment within Azure](https://github.com/aaronrucker990/the-amazing-world-of-azure)
