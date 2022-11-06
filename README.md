@@ -11,7 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aaronrucker990/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aaronrucker990/azure-network-protocols)
 - <b>VPN</b>
-    - [Configuring and Observing a VPN within a Virtual Envoirment](https://github.com/aaronrucker990/vpn-config-and-observ)
+    - [Configuring and Observing a VPN within a Virtual Envoirment](https://github.com/aaronrucker990/vpn-observ-and-config)
 
 <h2> Live Projects On Youtube:</h2>
 
