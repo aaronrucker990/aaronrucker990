@@ -7,7 +7,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/aaronrucker990/osTicket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/aaronrucker990/ticket-lifecycle-examples)
 - <b>Microsoft Azure</b>
-  - [Generating a Virtual Envoirment within Azure](https://github.com/aaronrucker990/creating-a-virtual-environment-azure)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aaronrucker990/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aaronrucker990/azure-network-protocols)
 - <b>VPN</b>
