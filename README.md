@@ -3,12 +3,12 @@
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
 
 - <b>Powershell</b>
-  - [Generating a (SIEM) within an Azure VM](https://github.com/aaronrucker990/configure-ad)  
+  - [Generating a (SIEM) within an Azure VM](https://github.com/aaronrucker990/configure-ad)
+- <b>VPN</b>
+    - [Configuring and Observing a VPN within a VM](https://github.com/aaronrucker990/vpn-observ-and-config)  
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aaronrucker990/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aaronrucker990/azure-network-protocols)
-- <b>VPN</b>
-    - [Configuring and Observing a VPN within a VM](https://github.com/aaronrucker990/vpn-observ-and-config)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/aaronrucker990/osTicket-Prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/aaronrucker990/osTicket-post-install-config)
