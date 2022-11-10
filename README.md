@@ -3,7 +3,7 @@
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
 
 - <b>Powershell</b>
-  - [Generating a (SIEM) within a Virtual Environment](https://github.com/aaronrucker990/configure-ad)
+  - [Generating a (SIEM) within a Virtual Environment](https://github.com/aaronrucker990/sentinel-lab)
 - <b>VPN</b>
     - [Configuring & Observing a VPN within an Azure Virtual Machine](https://github.com/aaronrucker990/vpn-observ-and-config)  
 - <b>Microsoft Azure</b>
