@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aaronrucker990/configure-ad)
   - [Network Security Groups (NSGs) & Inspecting Network Protocols](https://github.com/aaronrucker990/azure-network-protocols)
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket (Creating a Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites & Installation](https://github.com/aaronrucker990/osTicket-Prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/aaronrucker990/osTicket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/aaronrucker990/ticket-lifecycle-examples)  
