@@ -5,7 +5,7 @@
 - <b>Powershell</b>
   - [Generating a (SIEM) within a Virtual Environment](https://github.com/aaronrucker990/configure-ad)
 - <b>VPN</b>
-    - [Configuring & Observing a VPN within an Azure VM](https://github.com/aaronrucker990/vpn-observ-and-config)  
+    - [Configuring & Observing a VPN within an Azure Virtual Machine](https://github.com/aaronrucker990/vpn-observ-and-config)  
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aaronrucker990/configure-ad)
   - [Network Security Groups (NSGs) & Inspecting Network Protocols](https://github.com/aaronrucker990/azure-network-protocols)
