@@ -1,5 +1,7 @@
 <h1>Hi, I'm Aaron, an <a href="https://linkedin.com/in/aaronrucker990">IT Professional👋🏾
+    
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
+    
 - <b>VPN</b>
     - [Configuring & Observing a VPN within an Azure VM](https://github.com/aaronrucker990/vpn-observ-and-config)  
 - <b>Microsoft Azure</b>
