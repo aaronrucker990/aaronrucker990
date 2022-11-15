@@ -3,7 +3,7 @@
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
     
   - <b>Powershell</b>
-    - [ Constructing SIEM With a Powershell Event Logger to Export Failed RDP Logs](https://github.com/aaronrucker990/SIEM-LAB)  
+    - [ Constructing a SIEM With a Windows Event Logger to Export Failed RDP Logs](https://github.com/aaronrucker990/SIEM-LAB)  
 - <b>VPN</b>
     - [Configuring & Observing a VPN within an Azure VM](https://github.com/aaronrucker990/vpn-observ-and-config)  
 - <b>Microsoft Azure</b>
