@@ -3,7 +3,7 @@
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
     
   - <b>Powershell</b>
-    - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion (SIEM)](https://github.com/aaronrucker990/SIEM-LAB)  
+    - [ Constructing SIEM With a Powershell Event Logger to Export Failed RDP Logs](https://github.com/aaronrucker990/SIEM-LAB)  
 - <b>VPN</b>
     - [Configuring & Observing a VPN within an Azure VM](https://github.com/aaronrucker990/vpn-observ-and-config)  
 - <b>Microsoft Azure</b>
