@@ -3,7 +3,7 @@
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
     
   - <b>Powershell</b>
-    - [Failed RDP to IP Geolocation Information (SIEM LAB)](https://github.com/aaronrucker990/siem-lab)  
+    - [Failed RDP to Geolocation Information (SIEM LAB)](https://github.com/aaronrucker990/siem-lab)  
 - <b>VPN</b>
     - [Configuring & Observing a VPN within an Azure VM](https://github.com/aaronrucker990/vpn-observ-and-config)  
 - <b>Microsoft Azure</b>
