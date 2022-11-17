@@ -2,6 +2,8 @@
     
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
     
+ - <b>Java Script</b>
+  - [Generating a REST API with Node JS](https://github.com/aaronrucker990/os)
   - <b>Powershell</b>
     - [Failed RDP Attacks to Geolocation Information (SIEM Lab)](https://github.com/aaronrucker990/siem-lab)  
 - <b>VPN</b>
@@ -13,8 +15,6 @@
   - [osTicket: Prerequisites & Installation](https://github.com/aaronrucker990/osTicket-Prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/aaronrucker990/osTicket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/aaronrucker990/ticket-lifecycle-examples)  
-- <b>Java Script</b>
-  - [Generating a REST API with Node JS](https://github.com/aaronrucker990/os)
     
 <h2>🤳🏾Connect with me:</h2>
 
