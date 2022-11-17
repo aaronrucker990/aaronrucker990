@@ -14,8 +14,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/aaronrucker990/osTicket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/aaronrucker990/ticket-lifecycle-examples)  
  - <b>Node JS</b>
-  - [Configuring a Rest API with Node JS (Project in the Works)](https://github.com/aaronrucker990/ticket)
-  
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/aaronrucker990/ticket-lifecycle-examples)  
 <h2>🤳🏾Connect with me:</h2>
 
 [<img align="left" alt="Josh | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
