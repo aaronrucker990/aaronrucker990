@@ -2,8 +2,10 @@
     
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
     
-  - <b>Powershell</b>
-    - [Failed RDP Attacks to Geolocation Information (SIEM Lab)](https://github.com/aaronrucker990/siem-lab)  
+  - <b>Java Script</b>
+    - [Failed RDP Attacks to Geolocation Information (SIEM Lab)](https://github.com/aaronrucker990/siem-lab) 
+- <b>Powershell</b>
+    - [Failed RDP Attacks to Geolocation Information (SIEM Lab)](https://github.com/aaronrucker990/siem-lab)     
 - <b>VPN</b>
     - [Configuring & Observing a VPN within an Azure VM](https://github.com/aaronrucker990/vpn-observ-and-config)  
 - <b>Microsoft Azure</b>
