@@ -13,6 +13,8 @@
   - [osTicket: Prerequisites & Installation](https://github.com/aaronrucker990/osTicket-Prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/aaronrucker990/osTicket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/aaronrucker990/ticket-lifecycle-examples)  
+ - <b>Node JS</b>
+  - [Configuring a Rest API with Node JS (Project in the Works)](https://github.com/aaronrucker990/ticket)
   
 <h2>🤳🏾Connect with me:</h2>
 
