@@ -2,7 +2,7 @@
     
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
     
-  - <b>Node JS</b>
+  - <b>API</b>
     - [Building a REST API with Node JS (Project In the Works)](https://github.com/aaronrucker990//rest-api-with-node-js) 
 - <b>Powershell</b>
     - [Failed RDP Attacks to Geolocation Information (SIEM Lab)](https://github.com/aaronrucker990/siem-lab)     
