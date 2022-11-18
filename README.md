@@ -5,7 +5,7 @@
   - <b>Node JS</b>
     - [Building a REST API with Node JS (Project In the Works)](https://github.com/aaronrucker990//rest-api-with-node-js) 
 - <b>Powershell</b>
-    - [Failed RDP Attacks to Geolocation Information (SIEM Lab)](https://github.com/aaronrucker990/siem-lab)     
+    - [Creating a HoneyPot to Map Failed RDP Attakcs (SIEM Lab)](https://github.com/aaronrucker990/siem-lab)     
 - <b>VPN</b>
     - [Configuring & Observing a VPN within an Azure VM](https://github.com/aaronrucker990/vpn-observ-and-config)  
 - <b>Microsoft Azure</b>
