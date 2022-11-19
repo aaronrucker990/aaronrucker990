@@ -8,7 +8,7 @@
     - [Creating a HoneyPot to Map Failed RDP Attacks (SIEM Lab)](https://github.com/aaronrucker990/siem-lab)     
 - <b>VPN</b>
     - [Configuring & Observing a VPN within an Azure VM](https://github.com/aaronrucker990/vpn-observ-and-config)  
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure (Cloud Computing)</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aaronrucker990/configure-ad)
   - [Network Security Groups (NSGs) & Inspecting Network Protocols](https://github.com/aaronrucker990/azure-network-protocols)
 - <b>osTicket (Creating a Help Desk Ticketing System)</b>
