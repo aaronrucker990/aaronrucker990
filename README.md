@@ -2,7 +2,7 @@
     
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
     
-  - <b>Node JS</b>
+  - <b>Java Script</b>
     - [Building a REST API with Node JS (Project In the Works)](https://github.com/aaronrucker990//rest-api-with-node-js) 
 - <b>Powershell</b>
     - [Creating a HoneyPot to Map Failed RDP Attacks (SIEM Lab)](https://github.com/aaronrucker990/siem-lab)     
